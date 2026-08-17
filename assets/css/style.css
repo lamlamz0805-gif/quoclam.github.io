@@ -281,11 +281,11 @@ html[data-theme="dark"] .chip {
 .page-title,
 .hero-title,
 .article-title {
-  font-family: Georgia, "Times New Roman", serif;
-  letter-spacing: -.035em;
-  line-height: 1.06;
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  line-height: 1.12;
 }
-
 .section h2 {
   margin: 0;
   font-size: clamp(2rem, 4vw, 3.25rem);
@@ -364,7 +364,7 @@ html[data-theme="dark"] .chip {
 
 .hero-card-content h3 {
   margin: 12px 0 8px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Be Vietnam Pro", sans-serif;
   font-size: 2rem;
   line-height: 1.12;
 }
@@ -433,7 +433,7 @@ html[data-theme="dark"] .chip {
 
 .card h3 {
   margin: 11px 0 10px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Be Vietnam Pro", sans-serif;
   line-height: 1.18;
 }
 
@@ -743,7 +743,7 @@ html[data-theme="dark"] .chip {
 .article-content h2,
 .article-content h3 {
   margin-top: 2.2em;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Be Vietnam Pro", sans-serif;
   line-height: 1.2;
 }
 
